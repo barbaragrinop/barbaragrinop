@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Barbara Hellen</h1>
-<h3 align="left">A passionate frontend developer from Brasil</h3>
+<h3 align="left">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [SGP - Soluções em Gestão Pública](sgp-seven.vercel.app)
 
