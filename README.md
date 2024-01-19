@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Barbara Hellen</h1>
 <h3 align="left">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **ASP NET MVC and .NET**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **React.js, Next.js, Javascript, Typescript**
 
