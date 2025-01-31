@@ -1,9 +1,5 @@
 <h1 align="left">Hi 👋, I'm Barbara Hellen</h1>
 
-- 📫 How to reach me **dev.barbarahellen@gmail.com**
-
-- ⚡ Fun fact **I am very good at telling bad jokes**
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbaragrinop&show_icons=true&locale=en&layout=compact" alt="barbaragrinop" /></p>
 
 <h3 align="left">Connect with me:</h3>
